@@ -1,0 +1,7 @@
+var = float(input('Informe um valor em metros: '))
+print('{}km'.format(var/1000))
+print('{}hm'.format(var/100))
+print('{}dm'.format(var/10))
+print('{}dc'.format(var*10))
+print('{}cm'.format(var*100))
+print('{}mm'.format(var*1000))
