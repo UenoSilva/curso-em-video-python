@@ -11,7 +11,7 @@ def leiaInt(msg):
     return n
 
 
-def leiaFloat(msg): 
+def leiaFloat(msg):
     n = 0
     try:
         n = float(msg)
